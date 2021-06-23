@@ -2,3 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/upliygkh/public_html/
+    - /bin/cp
